@@ -1,9 +1,10 @@
-### IT Professional & Web Developer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Fabian%20Odhiambo&fontSize=70&fontAlignY=35&fontColor=00D9FF&animation=twinkling" />
+
 
 ## About Me
 
 ```
-Fabian_odhiambo = {
+fabian_odhiambo = {
     "location":      ["Nairobi, Kenya"],
     "current_focus": ["Web Development", "IT Support", "Cloud & App Deployment"],
     "learning":      ["Firebase", "React & TypeScript", "Cybersecurity Fundamentals", "Cloud Architecture"],
@@ -15,9 +16,9 @@ Fabian_odhiambo = {
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-### Web Development
+### 🌐 Web Development
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" height="20"/> **HTML5**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" height="20"/> **CSS3**
@@ -27,7 +28,7 @@ Fabian_odhiambo = {
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="20" height="20"/> **WordPress**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="20" height="20"/> **PHP**
 
-### Cloud & Tools
+### ☁️ Cloud & Tools
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="20" height="20"/> **Firebase**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20" height="20"/> **Git**
@@ -36,23 +37,31 @@ Fabian_odhiambo = {
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="20" height="20"/> **Figma**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="20" height="20"/> **Windows**
 
-### IT Support & Hardware
+### 🖥️ IT Support & Hardware
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="20" height="20"/> **Bash / CLI**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="20" height="20"/> **Linux**
 
 ---
 
-## Certifications
+## 📊 GitHub Stats
 
-- Customer Experience — HP LIFE
-- Google AI Essentials
-- Data Science & Analytics — HP LIFE
-- Foundations of Cybersecurity — Google / Coursera
+<img src="https://github-readme-stats.vercel.app/api?username=Juju18-ux&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Juju18-ux&theme=tokyonight&hide_border=true" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juju18-ux&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 
 ---
 
-## 2026 Goals
+## 🎓 Certifications
+
+- 🎯 Customer Experience — HP LIFE
+- 🤖 Google AI Essentials
+- 📊 Data Science & Analytics — HP LIFE
+- 🔒 Foundations of Cybersecurity — Google / Coursera
+
+---
+
+## 🎯 2026 Goals
 
 ```
 mission: "Building reliable, user-friendly web experiences and keeping the systems behind them running smoothly"
@@ -66,7 +75,7 @@ focus_areas:
 
 ---
 
-## Let's Connect
+## 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabian539247334)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:owuorfabian98@gmail.com)
@@ -75,4 +84,6 @@ focus_areas:
 
 > *"It's not a bug, it's an undocumented feature — until it's 2am and it's still not documented."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=Juju18-ux&label=Profile%20views&color=0077B5&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Juju18-ux&label=Profile%20views&color=00D9FF&style=for-the-badge)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />

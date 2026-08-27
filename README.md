@@ -4,7 +4,7 @@
 ## About Me
 
 ```
-fabian_odhiambo = {
+Fabian_odhiambo = {
     "location":      ["Nairobi, Kenya"],
     "current_focus": ["Web Development", "IT Support", "Cloud & App Deployment"],
     "learning":      ["Firebase", "React & TypeScript", "Cybersecurity Fundamentals", "Cloud Architecture"],

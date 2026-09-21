@@ -49,9 +49,9 @@ Fabian_odhiambo = {
 ## 🎓 Certifications
 
 - 🎯 Customer Experience — HP LIFE
-- 🤖 Google AI Essentials
+- 🤖 Google AI 
 - 📊 Data Science & Analytics — HP LIFE
-- 🔒 Foundations of Cybersecurity — Google / Coursera
+- 🔒 Cybersecurity — Google / Coursera
 
 ---
 

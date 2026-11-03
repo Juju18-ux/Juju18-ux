@@ -4,7 +4,7 @@
 ## About Me
 
 ```
-Fabian_owuor = {
+Fabian_Owuor = {
     "location":      ["Nairobi, Kenya"],
     "current_focus": ["Web Development", "IT Support", "Cloud & App Deployment"],
     "learning":      ["Firebase", "React & TypeScript", "Cybersecurity Fundamentals", "Cloud Architecture"],

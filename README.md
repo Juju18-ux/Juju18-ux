@@ -1,10 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Fabian%20Odhiambo&fontSize=50&fontAlignY=35&fontColor=00D9FF&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Fabian%20Owuor&fontSize=50&fontAlignY=35&fontColor=00D9FF&animation=twinkling" />
 
 
 ## About Me
 
 ```
-Fabian_odhiambo = {
+Fabian_owuor = {
     "location":      ["Nairobi, Kenya"],
     "current_focus": ["Web Development", "IT Support", "Cloud & App Deployment"],
     "learning":      ["Firebase", "React & TypeScript", "Cybersecurity Fundamentals", "Cloud Architecture"],
@@ -71,7 +71,7 @@ focus_areas:
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabian539247334)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabian-owuor)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:owuorfabian98@gmail.com)
 
 ---

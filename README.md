@@ -147,7 +147,7 @@ In progress:
       <br /><b>Gmail</b>
     </td>
     <td align="center" width="140">
-      <a href="https://fabian-portfolio.vercel.app"><img src="https://cdn.simpleicons.org/vercel/1A8F7A" alt="Portfolio" title="Portfolio" width="42" height="42" /></a>
+      <a href="https://fabian-owuor-one.vercel.app/"><img src="https://cdn.simpleicons.org/vercel/1A8F7A" alt="Portfolio" title="Portfolio" width="42" height="42" /></a>
       <br /><b>My Portfolio</b>
     </td>
   </tr>

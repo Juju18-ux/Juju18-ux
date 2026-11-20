@@ -101,9 +101,9 @@ Fabian_Owuor = {
 ## 🎯 2026 Goals
 
 ```yaml
-mission: "Building intelligent, reliable web experiences and keeping the systems behind them running smoothly"
+Mission: "Building intelligent, reliable web experiences and keeping the systems behind them running smoothly"
 
-focus_areas:
+Focus_areas:
   - AI & Machine Learning
       - Core ML: supervised/unsupervised learning, model evaluation
       - Deep learning with TensorFlow / Keras and PyTorch
@@ -116,7 +116,7 @@ focus_areas:
   - IT Support & Hardware Troubleshooting
   - Cybersecurity Fundamentals
 
-in_progress:
+In_progress:
   - Building and deploying end-to-end AI/ML projects
   - Publishing notebooks and write-ups of what I learn
 ```

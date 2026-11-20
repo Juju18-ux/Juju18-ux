@@ -13,16 +13,16 @@
 ## 👋 About Me
 
 ```python
-Fabian_Owuor = {
-    "Location":      ["Nairobi, Kenya"],
-    "Current Focus": ["AI & Machine Learning", "Full-Stack Web Development", "Cloud & App Deployment"],
-    "Learning":      ["Machine Learning (scikit-learn, TensorFlow, PyTorch)", "Python for Data Science",
-                      "LLM-powered apps & APIs", "Cybersecurity Fundamentals", "Cloud Architecture"],
-    "Building":      ["AI-enhanced web apps", "Data-driven dashboards", "Firebase-backed platforms"],
-    "Ask_Me_About":  ["WordPress", "Web Development", "IT Support", "Customer Experience",
-                      "Hardware Troubleshooting", "Getting started with AI/ML"],
-    "Fun_Fact":      ["I can fix your laptop and your website in the same afternoon."],
-    "Philosophy":    ["Every bug is just a feature that hasn't introduced itself yet."],
+**Fabian Owuor** = {
+    "Location":      "Nairobi, Kenya",
+    "Current Focus": "AI & Machine Learning", "Full-Stack Web Development", "Cloud & App Deployment",
+    "Learning":      "Machine Learning (scikit-learn, TensorFlow, PyTorch)", "Python for Data Science",
+                      "LLM-powered apps & APIs", "Cybersecurity Fundamentals", "Cloud Architecture",
+    "Building":      "AI-enhanced web apps", "Data-driven dashboards", "Firebase-backed platforms",
+    "Ask Me About":  "WordPress", "Web Development", "IT Support", "Customer Experience",
+                      "Hardware Troubleshooting", "Getting started with AI/ML",
+    "Fun Fact":      "I can fix your laptop and your website in the same afternoon.",
+    "Philosophy":    "Every bug is just a feature that hasn't introduced itself yet.",
 }
 ```
 

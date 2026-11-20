@@ -14,15 +14,15 @@
 
 ```python
 Fabian_Owuor = {
-    "location":      ["Nairobi, Kenya"],
-    "current_focus": ["AI & Machine Learning", "Full-Stack Web Development", "Cloud & App Deployment"],
-    "learning":      ["Machine Learning (scikit-learn, TensorFlow, PyTorch)", "Python for Data Science",
+    "Location":      ["Nairobi, Kenya"],
+    "current Focus": ["AI & Machine Learning", "Full-Stack Web Development", "Cloud & App Deployment"],
+    "Learning":      ["Machine Learning (scikit-learn, TensorFlow, PyTorch)", "Python for Data Science",
                       "LLM-powered apps & APIs", "Cybersecurity Fundamentals", "Cloud Architecture"],
-    "building":      ["AI-enhanced web apps", "Data-driven dashboards", "Firebase-backed platforms"],
-    "ask_me_about":  ["WordPress", "Web Development", "IT Support", "Customer Experience",
+    "Building":      ["AI-enhanced web apps", "Data-driven dashboards", "Firebase-backed platforms"],
+    "Ask_Me_About":  ["WordPress", "Web Development", "IT Support", "Customer Experience",
                       "Hardware Troubleshooting", "Getting started with AI/ML"],
-    "fun_fact":      ["I can fix your laptop and your website in the same afternoon."],
-    "philosophy":    ["Every bug is just a feature that hasn't introduced itself yet."],
+    "Fun_Fact":      ["I can fix your laptop and your website in the same afternoon."],
+    "Philosophy":    ["Every bug is just a feature that hasn't introduced itself yet."],
 }
 ```
 

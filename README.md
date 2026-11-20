@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=190&section=header&text=Fabian%20Owuor&fontSize=52&fontColor=00c6ff&fontAlignY=38&desc=AI%20%26%20ML%20%C2%B7%20Full-Stack%20Web%20%C2%B7%20Cloud%20%C2%B7%20IT%20Support&descSize=18&descAlignY=60&descColor=e2e8f0" alt="Fabian Owuor banner" />
+<img src="banner.svg" alt="Fabian Owuor banner" width="100%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00C6FF&center=true&vCenter=true&width=700&lines=Building+AI-powered+web+experiences;Turning+data+into+decisions;Full-stack+with+React+%C2%B7+TypeScript+%C2%B7+Firebase;I+fix+your+laptop+and+your+website+in+the+same+afternoon" alt="Typing SVG" />

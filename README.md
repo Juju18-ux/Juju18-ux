@@ -15,7 +15,7 @@
 ```python
 Fabian_Owuor = {
     "Location":      ["Nairobi, Kenya"],
-    "current Focus": ["AI & Machine Learning", "Full-Stack Web Development", "Cloud & App Deployment"],
+    "Current Focus": ["AI & Machine Learning", "Full-Stack Web Development", "Cloud & App Deployment"],
     "Learning":      ["Machine Learning (scikit-learn, TensorFlow, PyTorch)", "Python for Data Science",
                       "LLM-powered apps & APIs", "Cybersecurity Fundamentals", "Cloud Architecture"],
     "Building":      ["AI-enhanced web apps", "Data-driven dashboards", "Firebase-backed platforms"],

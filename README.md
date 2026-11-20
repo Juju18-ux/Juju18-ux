@@ -103,7 +103,7 @@
 ```yaml
 Mission: "Building intelligent, reliable web experiences and keeping the systems behind them running smoothly"
 
-Focus_areas:
+Focus Areas:
   - AI & Machine Learning
       - Core ML: supervised/unsupervised learning, model evaluation
       - Deep learning with TensorFlow / Keras and PyTorch
@@ -116,7 +116,7 @@ Focus_areas:
   - IT Support & Hardware Troubleshooting
   - Cybersecurity Fundamentals
 
-In_progress:
+In progress:
   - Building and deploying end-to-end AI/ML projects
   - Publishing notebooks and write-ups of what I learn
 ```
@@ -134,15 +134,31 @@ In_progress:
 
 ## 🤝 Let's Connect
 
-<p>
-  <a href="https://www.linkedin.com/in/fabian-owuor"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:owuorfabian98@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://fabian-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-1a8f7a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-</p>
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="140">
+      <a href="https://www.linkedin.com/in/fabian-owuor"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" title="LinkedIn" width="42" height="42" /></a>
+      <br /><b>LinkedIn</b>
+    </td>
+    <td align="center" width="140">
+      <a href="mailto:owuorfabian98@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" title="Gmail" width="42" height="42" /></a>
+      <br /><b>Gmail</b>
+    </td>
+    <td align="center" width="140">
+      <a href="https://fabian-portfolio.vercel.app"><img src="https://cdn.simpleicons.org/vercel/1A8F7A" alt="Portfolio" title="Portfolio" width="42" height="42" /></a>
+      <br /><b>My Portfolio</b>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
+---
 
-> _"It's not a bug, it's an undocumented feature — until it's 2am and it's still not documented."_
+> "It's not a bug, it's an undocumented feature — until it's 2am and it's still not documented."
 
 <img src="https://komarev.com/ghpvc/?username=Juju18-ux&label=PROFILE%20VIEWS&color=00c6ff&style=for-the-badge" alt="Profile views" />
 
